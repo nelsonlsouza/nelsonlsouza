@@ -4,7 +4,7 @@ Sou desenvolvedor de software em formação, com foco na construção de aplica�
 
 Atualmente concilio estudos com projetos pessoais, acadêmicos e profissionais, buscando aplicar boas práticas de desenvolvimento, versionamento e organização de projetos.
 
-##  Tecnologias
+##  Linguagens de estudo e carreira
 
 - Java
 - JavaScript
